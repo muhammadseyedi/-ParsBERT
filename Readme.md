@@ -74,7 +74,7 @@ jupyter notebook 03_sentiment_parsbert.ipynb
 
 ```
 part3_sentiment/
-├── 03_sentiment_parsbert.ipynb
+├── sentiment_parsbert.ipynb
 ├── requirements.txt
 ├── results_sentiment.json
 ├── cm_sentiment.png
