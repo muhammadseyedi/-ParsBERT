@@ -3,3 +3,9 @@ out_sentiment_full/
 model_sentiment/
 .ipynb_checkpoints/
 __pycache__/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
