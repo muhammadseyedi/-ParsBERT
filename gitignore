@@ -1,0 +1,5 @@
+out_sentiment/
+out_sentiment_full/
+model_sentiment/
+.ipynb_checkpoints/
+__pycache__/
